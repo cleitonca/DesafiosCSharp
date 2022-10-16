@@ -1,0 +1,15 @@
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\ParOuImpar\bin\Debug\net6.0\ParOuImpar.exe
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\ParOuImpar\bin\Debug\net6.0\ParOuImpar.deps.json
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\ParOuImpar\bin\Debug\net6.0\ParOuImpar.runtimeconfig.json
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\ParOuImpar\bin\Debug\net6.0\ParOuImpar.dll
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\ParOuImpar\bin\Debug\net6.0\ParOuImpar.pdb
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\ParOuImpar\obj\Debug\net6.0\ParOuImpar.csproj.AssemblyReference.cache
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\ParOuImpar\obj\Debug\net6.0\ParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\ParOuImpar\obj\Debug\net6.0\ParOuImpar.AssemblyInfoInputs.cache
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\ParOuImpar\obj\Debug\net6.0\ParOuImpar.AssemblyInfo.cs
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\ParOuImpar\obj\Debug\net6.0\ParOuImpar.csproj.CoreCompileInputs.cache
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\ParOuImpar\obj\Debug\net6.0\ParOuImpar.dll
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\ParOuImpar\obj\Debug\net6.0\refint\ParOuImpar.dll
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\ParOuImpar\obj\Debug\net6.0\ParOuImpar.pdb
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\ParOuImpar\obj\Debug\net6.0\ParOuImpar.genruntimeconfig.cache
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\ParOuImpar\obj\Debug\net6.0\ref\ParOuImpar.dll
