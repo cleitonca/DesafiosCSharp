@@ -1,0 +1,15 @@
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\DiferencaProdutoSoma\bin\Debug\net6.0\DiferencaProdutoSoma.exe
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\DiferencaProdutoSoma\bin\Debug\net6.0\DiferencaProdutoSoma.deps.json
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\DiferencaProdutoSoma\bin\Debug\net6.0\DiferencaProdutoSoma.runtimeconfig.json
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\DiferencaProdutoSoma\bin\Debug\net6.0\DiferencaProdutoSoma.dll
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\DiferencaProdutoSoma\bin\Debug\net6.0\DiferencaProdutoSoma.pdb
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\DiferencaProdutoSoma\obj\Debug\net6.0\DiferencaProdutoSoma.csproj.AssemblyReference.cache
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\DiferencaProdutoSoma\obj\Debug\net6.0\DiferencaProdutoSoma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\DiferencaProdutoSoma\obj\Debug\net6.0\DiferencaProdutoSoma.AssemblyInfoInputs.cache
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\DiferencaProdutoSoma\obj\Debug\net6.0\DiferencaProdutoSoma.AssemblyInfo.cs
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\DiferencaProdutoSoma\obj\Debug\net6.0\DiferencaProdutoSoma.csproj.CoreCompileInputs.cache
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\DiferencaProdutoSoma\obj\Debug\net6.0\DiferencaProdutoSoma.dll
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\DiferencaProdutoSoma\obj\Debug\net6.0\refint\DiferencaProdutoSoma.dll
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\DiferencaProdutoSoma\obj\Debug\net6.0\DiferencaProdutoSoma.pdb
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\DiferencaProdutoSoma\obj\Debug\net6.0\DiferencaProdutoSoma.genruntimeconfig.cache
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\DiferencaProdutoSoma\obj\Debug\net6.0\ref\DiferencaProdutoSoma.dll

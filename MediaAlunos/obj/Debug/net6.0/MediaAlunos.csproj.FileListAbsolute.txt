@@ -1,0 +1,15 @@
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\MediaAlunos\bin\Debug\net6.0\MediaAlunos.exe
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\MediaAlunos\bin\Debug\net6.0\MediaAlunos.deps.json
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\MediaAlunos\bin\Debug\net6.0\MediaAlunos.runtimeconfig.json
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\MediaAlunos\bin\Debug\net6.0\MediaAlunos.dll
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\MediaAlunos\bin\Debug\net6.0\MediaAlunos.pdb
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\MediaAlunos\obj\Debug\net6.0\MediaAlunos.csproj.AssemblyReference.cache
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\MediaAlunos\obj\Debug\net6.0\MediaAlunos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\MediaAlunos\obj\Debug\net6.0\MediaAlunos.AssemblyInfoInputs.cache
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\MediaAlunos\obj\Debug\net6.0\MediaAlunos.AssemblyInfo.cs
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\MediaAlunos\obj\Debug\net6.0\MediaAlunos.csproj.CoreCompileInputs.cache
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\MediaAlunos\obj\Debug\net6.0\MediaAlunos.dll
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\MediaAlunos\obj\Debug\net6.0\refint\MediaAlunos.dll
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\MediaAlunos\obj\Debug\net6.0\MediaAlunos.pdb
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\MediaAlunos\obj\Debug\net6.0\MediaAlunos.genruntimeconfig.cache
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\MediaAlunos\obj\Debug\net6.0\ref\MediaAlunos.dll
