@@ -1,4 +1,8 @@
-﻿
+﻿/*
+ * Crie um algoritmo que verifique se um número informado é par ou impar.
+ */
+
+
 Console.WriteLine("Digite um número: ");
 int numero = int.Parse(Console.ReadLine());
 
