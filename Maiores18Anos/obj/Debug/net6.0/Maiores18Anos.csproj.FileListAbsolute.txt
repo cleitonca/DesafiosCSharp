@@ -1,0 +1,15 @@
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\Maiores18Anos\bin\Debug\net6.0\Maiores18Anos.exe
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\Maiores18Anos\bin\Debug\net6.0\Maiores18Anos.deps.json
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\Maiores18Anos\bin\Debug\net6.0\Maiores18Anos.runtimeconfig.json
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\Maiores18Anos\bin\Debug\net6.0\Maiores18Anos.dll
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\Maiores18Anos\bin\Debug\net6.0\Maiores18Anos.pdb
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\Maiores18Anos\obj\Debug\net6.0\Maiores18Anos.csproj.AssemblyReference.cache
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\Maiores18Anos\obj\Debug\net6.0\Maiores18Anos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\Maiores18Anos\obj\Debug\net6.0\Maiores18Anos.AssemblyInfoInputs.cache
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\Maiores18Anos\obj\Debug\net6.0\Maiores18Anos.AssemblyInfo.cs
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\Maiores18Anos\obj\Debug\net6.0\Maiores18Anos.csproj.CoreCompileInputs.cache
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\Maiores18Anos\obj\Debug\net6.0\Maiores18Anos.dll
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\Maiores18Anos\obj\Debug\net6.0\refint\Maiores18Anos.dll
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\Maiores18Anos\obj\Debug\net6.0\Maiores18Anos.pdb
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\Maiores18Anos\obj\Debug\net6.0\Maiores18Anos.genruntimeconfig.cache
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\Maiores18Anos\obj\Debug\net6.0\ref\Maiores18Anos.dll
