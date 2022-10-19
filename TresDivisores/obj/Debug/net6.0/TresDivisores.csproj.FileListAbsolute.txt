@@ -1,0 +1,15 @@
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\TresDivisores\bin\Debug\net6.0\TresDivisores.exe
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\TresDivisores\bin\Debug\net6.0\TresDivisores.deps.json
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\TresDivisores\bin\Debug\net6.0\TresDivisores.runtimeconfig.json
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\TresDivisores\bin\Debug\net6.0\TresDivisores.dll
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\TresDivisores\bin\Debug\net6.0\TresDivisores.pdb
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\TresDivisores\obj\Debug\net6.0\TresDivisores.csproj.AssemblyReference.cache
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\TresDivisores\obj\Debug\net6.0\TresDivisores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\TresDivisores\obj\Debug\net6.0\TresDivisores.AssemblyInfoInputs.cache
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\TresDivisores\obj\Debug\net6.0\TresDivisores.AssemblyInfo.cs
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\TresDivisores\obj\Debug\net6.0\TresDivisores.csproj.CoreCompileInputs.cache
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\TresDivisores\obj\Debug\net6.0\TresDivisores.dll
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\TresDivisores\obj\Debug\net6.0\refint\TresDivisores.dll
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\TresDivisores\obj\Debug\net6.0\TresDivisores.pdb
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\TresDivisores\obj\Debug\net6.0\TresDivisores.genruntimeconfig.cache
+D:\Estudo de Desenvolvimento\CSharp\DesafiosCSharp\DesafiosCSharp\TresDivisores\obj\Debug\net6.0\ref\TresDivisores.dll
